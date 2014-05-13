@@ -1,0 +1,21 @@
+#board
+{
+	margin: auto;
+	padding: 30px;
+	border-width:  30px;
+	border-radius : 20px;
+	background: rgb(255, 255, 153);
+	width: 337px;
+}
+
+#gametitle
+{
+	margin: auto;
+	width: 500px;
+	color: rgb(255, 255, 153);
+}
+
+body
+{
+	background: rgb(102, 178, 255);
+}
