@@ -93,6 +93,11 @@ function resetDisplayFlags()
 	reset = 1;
 }
 
+function refresh()
+{
+	document.location.reload(true);
+}
+
 function setIdFlags()
 {
 	id1 = chosen[0];
